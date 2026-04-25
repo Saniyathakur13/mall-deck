@@ -26,7 +26,7 @@ const Hero = () => {
     objectFit: "cover",
   }}
 >
-  <source src="/mall.mp4" type="video/mp4" />
+  <source src="https://drive.google.com/file/d/1iSaBxgwCWR4sXGWF0j58S91yZDuHTOQa/view?usp=sharing" type="video/mp4" />
 </video>
 
       {/* 🌑 LIGHT OVERLAY (ONLY DARK, NO ANIMATION HERE) */}
