@@ -26,7 +26,8 @@ const Hero = () => {
     objectFit: "cover",
   }}
 >
-  <source src="https://drive.google.com/file/d/1iSaBxgwCWR4sXGWF0j58S91yZDuHTOQa/view?usp=sharing" type="video/mp4" />
+  <source src="https://res.cloudinary.com/doekmu1nm/video/upload/v1777142362/mall_unm2xb.mp4" 
+    type="video/mp4" />
 </video>
 
       {/* 🌑 LIGHT OVERLAY (ONLY DARK, NO ANIMATION HERE) */}
